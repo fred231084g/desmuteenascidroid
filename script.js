@@ -19,7 +19,7 @@ let naped=json.links.map((o)=>{
   src.appendChild(img);
   setTimeout(500)
 })
-solucionoar ci
+solucionoar ciertos errores para poder acceder a las imagenes de una manera segura y rapida 
 
 
 */ 
