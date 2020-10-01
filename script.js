@@ -2,4 +2,8 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-console.log("visiten mi página carajo https://scidroid.live/");
+console.log("creditos a ");
+console.log("pythonBoy123 diseñador ");
+console.log("ELPanaJose diseñador y creador de algunas de las imagenes");
+console.log("scidroid el creador de algunas imagenes")
+console.log("viva el comunismo de derecha ")
