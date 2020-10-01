@@ -24,22 +24,24 @@ a{
 
 }
 
-img{
+.imagenes img{
   
   width:30%;
   height:30%;
   position:relative;
   animation-name:animacion;
-  animation-duration:1s;
-  animation-fill-mode: forwards;
+  animation-duration:4s;
+    animation-fill-mode: forwards;
   animation-iteration-count: infinite;
+  animation-direction:alternate;
 }
 @keyframes animacion{
-  0%%{left:5px;right:5px;}
-  25%{top:5px;bottom:3px;}
-  50%{left:5px;right:1px;}
-  75%{bottom:5px;top:3px;}
-  100%{right:5px;left:4px;}
+  0%%{transform:rotate(2deg)}
+  25%{transform:rotate(-2g)}
+  50%{transform:rotate(2deg)}
+  75%{transform:rotate(-2deg)}
+  100%{transform:rotate(1deg)}
+
   
 }
 .cabeza{
