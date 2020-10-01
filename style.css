@@ -27,7 +27,7 @@ a{
 }
 
 .imagenes img{
- 
+  top:30px;
   width:30%;
   height:30%;
   position:relative;
@@ -61,9 +61,16 @@ a{
 .cabeza p{
    color:#373fff;
 }
-.imagenes{
+.video{
+  height:300px;
+  width:500px;
+  animation-name:animacion;
+  animation-duration:2s;
+  animation-fill-mode: forwards;
+  animation-iteration-count: infinite;
+  animation-direction:alternate;
   position:relative;
-  top:45px;
+  
 }
 #comunismo{
   position:relative;
