@@ -1,4 +1,4 @@
-/* CSS files add styling rules to your content */
+/* aaa se ve muy raro asi */
 
 body {
   font-family: helvetica, arial, sans-serif;
@@ -20,4 +20,9 @@ a{
   font-style:italic;
    font-weight:bold;
   
+}
+
+img{
+display:block;
+margin:auto;
 }
