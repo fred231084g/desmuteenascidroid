@@ -7,3 +7,4 @@ console.log("pythonBoy123 diseñador ");
 console.log("ELPanaJose diseñador y creador de algunas de las imagenes");
 console.log("scidroid el creador de algunas imagenes")
 console.log("viva el comunismo de derecha ")
+
