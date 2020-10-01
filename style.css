@@ -25,24 +25,22 @@ a{
 }
 
 img{
-  /*display:block;*/
-  /*margin:auto;*/
+  
   width:30%;
   height:30%;
-  position: relative;
+  position:relative;
   animation-name:animacion;
-  animation-duration:4s;
-  animation-fill-node:fowards
+  animation-duration:1s;
+  animation-fill-mode: forwards;
   animation-iteration-count: infinite;
 }
 @keyframes animacion{
-  25%{top:5px;bottom:0px;}
-  50%{left:5px;right:0px;}
-  75%{bottom:5px;top:0px;}
-  100%{right:5px;left:0px;}
+  0%%{left:5px;right:5px;}
+  25%{top:5px;bottom:3px;}
+  50%{left:5px;right:1px;}
+  75%{bottom:5px;top:3px;}
+  100%{right:5px;left:4px;}
   
-
-
 }
 .cabeza{
 
