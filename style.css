@@ -21,9 +21,21 @@ a{
   text-align: center;
   font-style:italic;
   font-weight:bold;
+  position:relative;
+  animation-name:animacion;
+  animation-duration:4s;
+  animation-iteration-count: infinite;
+  animation-direction:alternate;
   text-decoration:none;
-  color:red;
 
+
+}
+@keyframes colorestexto{
+  25%{color:red;}
+  50%{color:blue;}
+  75%{color:green;}
+  100%{color:yellow;}
+  
 }
 
 .imagenes img{
@@ -45,7 +57,7 @@ a{
   
 }
 .cabeza{
-
+  
   font-size:120%;
   display:block;
   margin:auto;
