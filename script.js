@@ -2,4 +2,4 @@
     to your site with Javascript */
 
 // prints "hi" in the browser's dev tools console
-console.log("siganme en github carajo!!!! github.com/elpanajl");
+console.log("visiten mi página carajo https://scidroid.live/");

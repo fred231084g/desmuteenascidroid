@@ -13,6 +13,8 @@ h1 {
 p{
   font-style:italic;
   color:#373fff;
+  display:block;
+  text-align:center;
 }
 a{
   text-align: center;
@@ -22,7 +24,8 @@ a{
 }
 
 img{
-  
+  display:block;
+  margin:auto;
   width:30%;
   height:30%;
 }
