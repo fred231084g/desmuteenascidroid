@@ -6,11 +6,14 @@ body {
 
 }
 h1 {
-  font-style: italic;
+  font-style: monospace;
   color: #373fff;
+   font-size:300%;
+  
 }
 p{
-  font-style:italic;
+  font-style:monospace;
+  font-size:150%;
   color:#373fff;
   display:block;
   text-align:center;
@@ -25,7 +28,7 @@ a{
 }
 
 .imagenes img{
-  
+ 
   width:30%;
   height:30%;
   position:relative;
@@ -36,18 +39,20 @@ a{
   animation-direction:alternate;
 }
 @keyframes animacion{
-  0%%{transform:rotate(2deg)}
-  25%{transform:rotate(-2g)}
-  50%{transform:rotate(2deg)}
-  75%{transform:rotate(-2deg)}
+  25%{transform:rotate(-1g)}
+  50%{transform:rotate(1deg)}
+  75%{transform:rotate(-1deg)}
   100%{transform:rotate(1deg)}
-
   
 }
 .cabeza{
-
+  display:block;
+  margin:auto;
+  text align:center;
   position: relative;
   top: 20px;
+  
+  width:30%;
 
 }
 .imagenes{
