@@ -2,10 +2,20 @@
 body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
-  background:#000000;
+  background-color:black;
+  animation-interation-time:infinite;
+  animation-name:animacion;
+  animation-duration:  100s;
+}
+@keyframes animacion{
+  0%{background-color:red;}
+  25%{background-color:#073842;}
+  50%{background-color:#052E4C;}
+  75%{background-color:black;}
+  100%{background-color:#B81E83}
+  
 
 }
-
 h1 {
   font-style: italic;
   color: #373fff;
@@ -30,6 +40,7 @@ img{
   /*margin:auto;*/
   width:30%;
   height:30%;
+  
 }
 .cabeza{
 
