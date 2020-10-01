@@ -3,17 +3,6 @@ body {
   font-family: helvetica, arial, sans-serif;
   margin: 2em;
   background-color:black;
-  animation-interation-time:infinite;
-  animation-name:animacion;
-  animation-duration:  100s;
-}
-@keyframes animacion{
-  0%{background-color:red;}
-  25%{background-color:#073842;}
-  50%{background-color:#052E4C;}
-  75%{background-color:black;}
-  100%{background-color:#B81E83}
-  
 
 }
 h1 {
@@ -40,13 +29,25 @@ img{
   /*margin:auto;*/
   width:30%;
   height:30%;
-  
+  position: relative;
+  animation-name:animacion;
+  animation-duration:10s;
+  animation-iteration-count: infinite;
+}
+@keyframes animacion{
+  0%{top:20px;}
+  25%{bottom:5px;}
+  50%{right: 5.3px;}
+  75%{left:5.3;}
+  100%{botto:15}
+
+
 }
 .cabeza{
 
   position: relative;
   top: 20px;
-  
+
 }
 .imagenes{
   position:relative;
@@ -58,7 +59,7 @@ img{
   display: block;
   margin-left: auto;
   margin-right: auto;
-  
+
 }
 .agradecimientos{
   position:relative;
