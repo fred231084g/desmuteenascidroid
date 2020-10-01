@@ -45,7 +45,7 @@ a{
   
 }
 .cabeza{
-  border: blue 5px solid;
+
   font-size:120%;
   display:block;
   margin:auto;
@@ -54,17 +54,12 @@ a{
   top: 20px;
   height:80%;
   width:80%;
-  background-image:url("https://cdn.discordapp.com/attachments/722670595367501834/761059124456194058/unknown.png");
-  backgroud-size:cover;
-  -moz-background-size: cover;
-  -webkit-background-size: cover;
-  -o-background-size: cover;
 
   
 
 }
 .cabeza p{
-  color:#000000
+   color:#373fff;
 }
 .imagenes{
   position:relative;
