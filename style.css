@@ -13,7 +13,6 @@ h1 {
 }
 p{
   font-style:monospace;
-  font-size:150%;
   color:#373fff;
   display:block;
   text-align:center;
@@ -46,13 +45,16 @@ a{
   
 }
 .cabeza{
+  border: blue 5px solid;
+  font-size:120%;
   display:block;
   margin:auto;
   text align:center;
   position: relative;
   top: 20px;
+  height:80;
+  width:50%;
   
-  width:30%;
 
 }
 .imagenes{
