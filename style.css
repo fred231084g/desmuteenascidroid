@@ -1,4 +1,3 @@
-/* aaa se ve muy raro asi */
 
 body {
   font-family: helvetica, arial, sans-serif;
@@ -18,11 +17,12 @@ p{
 a{
   text-align: center;
   font-style:italic;
-   font-weight:bold;
+  font-weight:bold;
   
 }
 
 img{
-display:block;
-margin:auto;
+  
+  width:30%;
+  height:30%;
 }
