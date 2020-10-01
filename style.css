@@ -20,7 +20,9 @@ a{
   text-align: center;
   font-style:italic;
   font-weight:bold;
-  
+  text-decoration:none;
+  color:##D707F7;
+
 }
 
 img{
@@ -30,8 +32,8 @@ img{
   height:30%;
 }
 #comunismo{
-  display:block;
-  margin:auto;
-  image
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   
 }
