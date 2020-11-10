@@ -1,1 +1,1 @@
-este repositorio debe de ser eliminado , no esta relacionado con el contenido que hace freddy
+@Ranon-rat, recordemos que no es sólo software para freddy, también para la comunidad, y esto al ser un meme de la comunidad y se programó para la comunidad es aceptable como contenido en esta organización, además se le pide que si va a borrar contenido se avise anteriormente
