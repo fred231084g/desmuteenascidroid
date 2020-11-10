@@ -1,1 +1,1 @@
-@Ranon-rat, recordemos que no es sólo software para freddy, también para la comunidad, y esto al ser un meme de la comunidad y se programó para la comunidad es aceptable como contenido en esta organización, además se le pide que si va a borrar contenido se avise anteriormente
+Meme antiguo de la comunidad, aunque este archivado ya, decidimos dejar el Source Code y la página libre para todos.
